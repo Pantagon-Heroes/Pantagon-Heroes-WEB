@@ -34,7 +34,7 @@ We will probably use azure devops or AWS Ec2 instance, so deployment won't be a 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
 
 ## Versioning
 
@@ -42,7 +42,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Alexandre Vieira ** - *Initial work* - [PurpleBooth](https://github.com/alexandreUser)
+* **Alexandre Vieira ** - *Initial work* - [alexandreUser](https://github.com/alexandreUser)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
