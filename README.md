@@ -44,7 +44,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Alexandre Vieira ** - *Initial work* - [alexandreUser](https://github.com/alexandreUser)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Pantagon-Heroes/Pantagon-Heroes-WEB/contributors) who participated in this project.
 
 ## License
 This project don't have a specific license, but all the rights are to Policarpo LTDM
